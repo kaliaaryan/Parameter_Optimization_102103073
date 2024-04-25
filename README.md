@@ -71,7 +71,7 @@ plt.show()
 ```
 
 ## Result Table
-![Result Table](Result_Table.png)
+![Result Table](final_table.png)
 ## Result Graph
-![Result_Graph](Result_Graph.png)
+![Result_Graph](final_graph.png)
 
